@@ -1,2 +1,4 @@
 # Detecting-Deceptive-Reviews
 Due to the rise of AI-generated reviews, it's critical for online marketplaces to have a robust way of detecting fake reviews. The goal of this project is to build a detection system that can determine whether a certain review was created by a human or an AI. This project fuses frozen BERT embeddings with XGBoost classification and utilized SHAP and LIME for additional explainability to confirm the model captures genuine linguistic patterns. Our model demonstrates that hybrid architectures can deliver comprehensive, scalable fake review detection without the computational overhead of deep learning alone. This offers a practical solution to the growing threat to consumer trust as AI-generated content grows increasingly sophisticated.
+
+Dataset can be accessed and downloaded from: https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset/data
